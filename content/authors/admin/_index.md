@@ -29,6 +29,8 @@ profiles:
   - icon: at-symbol
     url: 'yiqiangwen@cau.edu.cn'
     label: E-mail Me
+  - yiqiangwen@cau.edu.cn
+    
 
 interests:
   - Artificial Intelligence
@@ -167,4 +169,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, everyone！My name is Yiqiang Wen. Currently, I’m doing research as a undergraduate researcher at University of Toronto in [the Mott Lab](http://www.themottlab.com/). My research pursuits primarily revolve around the realms of cellular and molecular biology, with a keen focus on elucidating the signaling pathways within the cell system.
+My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
+
