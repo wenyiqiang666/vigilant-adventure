@@ -169,6 +169,5 @@ awards:
 
 ## About Me
 
-Hello, everyone！My name is Yiqiang Wen. Currently, I’m doing research as a undergraduate researcher at University of Toronto in [the Mott Lab](http://www.themottlab.com/). My research pursuits primarily revolve around the realms of cellular and molecular biology, with a keen focus on elucidating the signaling pathways within the cell system.
-My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
+Hello, everyone！My name is Yiqiang Wen. Currently, I’m doing research as a undergraduate researcher at University of Toronto in [the Mott Lab](http://www.themottlab.com/). My research pursuits primarily revolve around the realms of cellular and molecular biology, with a keen focus on elucidating the signaling pathways within the cell system. My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
 
