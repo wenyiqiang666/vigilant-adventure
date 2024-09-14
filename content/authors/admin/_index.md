@@ -29,7 +29,6 @@ profiles:
   - icon: at-symbol
     url: 'yiqiangwen@cau.edu.cn'
     label: E-mail Me
-  - yiqiangwen@cau.edu.cn
     
 
 interests:
